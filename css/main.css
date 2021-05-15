@@ -1,0 +1,57 @@
+.bg-yellow {
+    background-color:#f7c04e !important;
+}
+.slider-class-settings
+{
+    height:300px;
+}
+
+.py-6 
+{
+    padding:150px 0px;
+}
+.bg-soft-black{
+    background-color: #00000099;
+}
+
+body
+{
+    font-family: 'Open Sans', sans-serif !important;
+    margin-top:-95px;
+}
+.gradient
+{
+    background:linear-gradient(#ed6670,#f2ad4e);
+}
+/*bootstrap kodu ezme ve değiştirme*/
+.btn-success {
+    background-color:#1db954 !important;
+    border-radius:50px !important;
+}
+.btn-outline-secondary
+{
+    color:#fff !important;
+    border-radius:50px;
+    border-color:#fff;
+}
+.green-text
+{
+    color:#1db954 !important;
+}
+
+.shadow{
+    box-shadow:0px 5px 10px #999;
+}
+
+.bg-black
+{
+    background-color:#000;
+}
+
+/*Media QUery yazımı*/
+@media (max-width:992px)
+{
+    .display-3 {
+        font-size:35px !important;
+    }
+}
